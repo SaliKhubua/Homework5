@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","286","amazonhmptest","AmazonTest","Sun Jan 12 16:24:36 GMT+04:00 2025","passed","Sun Jan 12 16:24:36 GMT+04:00 2025","AmazonTest.homePageTest","TestHomePage","AmazonTest.homePageTest","amazonhmptest"
+"","3340","searchtest","AmazonTest","Sun Jan 12 16:24:47 GMT+04:00 2025","passed","Sun Jan 12 16:24:50 GMT+04:00 2025","AmazonTest.searchTest","TestSearchPage","AmazonTest.searchTest","searchtest"
+"","1158","amazonhmptest1","AmazonTest","Sun Jan 12 16:24:36 GMT+04:00 2025","passed","Sun Jan 12 16:24:37 GMT+04:00 2025","AmazonTest.homePageTest","TestHomePage","AmazonTest.homePageTest","amazonhmptest1"
+"","4304","amazonregtest","AmazonTest","Sun Jan 12 16:24:38 GMT+04:00 2025","passed","Sun Jan 12 16:24:43 GMT+04:00 2025","AmazonTest.registrationTest","TestRegPage","AmazonTest.registrationTest","amazonregtest"

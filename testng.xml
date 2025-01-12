@@ -1,0 +1,26 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AmazonTest" verbose="1">
+
+
+    <test name ="TestHomePage">
+        <classes>
+            <class name="AmazonTest.homePageTest"/>
+        </classes>
+    </test>
+
+    <test name="TestRegPage">
+        <classes>
+            <class name="AmazonTest.registrationTest"/>
+        </classes>
+    </test>
+
+    <test name="TestSearchPage">
+        <classes>
+            <class name="AmazonTest.searchTest"/>
+        </classes>
+    </test>
+
+
+</suite>
